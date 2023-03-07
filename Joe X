@@ -24,15 +24,15 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
-    Description = "Updated, February 28 2023!",
+    Description = "Updated, 03/07/2023",
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
@@ -40,9 +40,9 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(4)
+wait(2)
 
-loadstring(game:HttpGet(("https://pasteheaven.com/49ddcfd5-e590-4edd-8f81-feba95ae7ff8/raw"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/J0EX/Sky-Bullet-Trails/main/Sky-Bullet-Trails%201.JOEX"),true))()
 
 wait(3)
 
@@ -54,7 +54,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 loadstring(game:HttpGet(("https://pasteheaven.com/4957fc68-3e02-4634-bec1-e09021559477/raw"),true))()
 
@@ -64,7 +64,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 -- No Recoil & Spread </>
 
@@ -132,7 +132,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
@@ -140,7 +140,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
@@ -148,7 +148,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 -- Player Joined </>
 
@@ -178,7 +178,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
@@ -186,7 +186,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
@@ -194,7 +194,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(4)
+wait(2)
 
 loadstring(game:HttpGet(("https://pasteheaven.com/49ddcfd5-e590-4edd-8f81-feba95ae7ff8/raw"),true))()
 
@@ -208,7 +208,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 loadstring(game:HttpGet(("https://pasteheaven.com/4957fc68-3e02-4634-bec1-e09021559477/raw"),true))()
 
@@ -218,7 +218,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 -- Nitrate Ores </>
 
@@ -258,7 +258,7 @@ end
 
 workspace.DescendantAdded:Connect(onPartAdded)
 
-wait(5)
+wait(3)
 
 			notifications:message{
         Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
@@ -292,7 +292,7 @@ end
 
 workspace.DescendantAdded:Connect(onPartAdded)
 
-wait(5)
+wait(3)
 
 -- TCs </>
 
@@ -347,7 +347,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 -- Military Crates </>
 
@@ -387,7 +387,7 @@ end
 
 workspace.DescendantAdded:Connect(onPartAdded)
 
-wait(5)
+wait(3)
 
 -- Part Crates </>
 
@@ -427,7 +427,7 @@ end
 
 workspace.DescendantAdded:Connect(onPartAdded)
 
-wait(5)
+wait(3)
 
 -- No Recoil & Spread </>
 
@@ -495,7 +495,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
@@ -503,7 +503,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 -- FreeCam </>
 
@@ -997,7 +997,7 @@ notifications:message{
     Icon = 6023426926
 }
 
-wait(5)
+wait(3)
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v5.0",
