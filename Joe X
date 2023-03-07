@@ -196,15 +196,15 @@ notifications:message{
 
 wait(2)
 
-loadstring(game:HttpGet(("https://pasteheaven.com/49ddcfd5-e590-4edd-8f81-feba95ae7ff8/raw"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/J0EX/Sky-Bullet-Trails/main/Sky-Bullet-Trails%201.JOEX"),true))()
 
 wait(3)
 
-loadstring(game:HttpGet(("https://pasteheaven.com/f71d2449-4ca5-433f-8b99-a235884d049e/raw"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/J0EX/Player-Esp-2nd-loadstring-JOEX/main/Player-Esp-2nd-loadstring-JOEX"),true))()
 
 notifications:message{
     Title = "Joe <font color='rgb(148, 0, 211)'>X</font> - v1.0",
-    Description = "[Green] Player Chams Loaded!",
+    Description = "[Red] Player Chams Loaded!",
     Icon = 6023426926
 }
 
